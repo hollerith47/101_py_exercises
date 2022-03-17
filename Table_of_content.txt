@@ -1,0 +1,57 @@
+-----------------Debutant-------------------------
+ 1. Déclarer des variables
+ 2. Erreur déclaration variable
+ 3. Convertir une variable d'un type à un autre
+ 4. Trouver la valeur d'une variable
+ 5. Ajouter un séparateur dans la fonction print
+ 6. Erreur dans la déclaration d'une variable
+ 7. Vérifier si une variable est d'un certain type
+ 8. Remplacer un mot par un autre
+ 9. Ordonner une chaîne de caractère
+ 10. Calculer le volume d'une sphère
+ 11. Tester si un nombre est plus grand que 10
+ 12. Créer une liste de nombres de 5 à 15
+ 13. Créer une liste de nombres pairs de 1 à 100
+ 14. Créer un générateur de lancer de dés
+ 15. Compter le nombre d'occurrences d'une lettre dans une phrase
+ 16. Récupérer un élément dans une liste
+ 17. Récupérer des éléments dans une liste
+ 18. Récupérer un élément sur deux dans une liste
+ 19. Ajouter plusieurs éléments à une liste
+ 20. Récupérer les éléments communs à deux listes
+ 21. Trier une liste de tuples
+ 22. Récupérer une valeur dans un dictionnaire
+ 23. Additionner les valeurs d'un dictionnaire
+ 24. Trouver l'erreur de module
+ 25. Afficher le chemin du script Python en cours
+ 26. Importer une variable d'un autre module
+ 27. Afficher le chemin du script Python en cours
+ 28. Récupérer l'extension d'un fichier
+ 29. Accéder à une variable d'environnement
+ 30. Calculer le temps d'exécution d'un script
+ 31. Trouver l'erreur : variable égale à 0
+ 32. Formater une chaîne de caractères
+ 33. Inverser les lettres d'un mot
+ 34. Mélanger les lettres d'un mot
+ 35. Tronquer le nombre de décimales
+ 36. Tester une condition sur une seule ligne
+ 37. Calculer l'âge d'un chien par rapport a l'age d'un humain
+ 38. Trier trois nombres sans condition
+ 39. Sortir d'une boucle infinie
+ 40. Trouver l'erreur dans une boucle for
+ 41. Trouver l'erreur dans la fonction
+ 42. Trouver l'erreur dans la fonction
+ 43. Afficher la table de multiplication d'un nombre
+ 44. Récupérer l'indice de l'itération dans une boucle
+ 45. Récupérer seulement les éléments pairs d'une liste
+ 46. Récupérer seulement les éléments pairs d'une liste avec une compréhension de liste
+
+-----------------Intermediate-------------------------
+47. Additionner les chiffres d'un nombre
+48. Remplacer un élément dans une liste (comprehension de liste)
+49. Enlever les doublons d'une liste
+50. Printer une phrase tant que l'utilisateur le demande
+51. Ajouter des éléments à un dictionnaire
+52. Créer un dictionnaire avec les lettres de l'alphabet
+53. Recréer la fonction len
+54. Créer un motif avec des print
