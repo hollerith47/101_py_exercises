@@ -55,3 +55,13 @@
 52. Créer un dictionnaire avec les lettres de l'alphabet
 53. Recréer la fonction len
 54. Créer un motif avec des print
+55. Créer une pyramide de symboles
+56. Formater un texte avec la méthode format (f-string tres avanced with padding)
+57. Ajouter un séparateur de milliers à un nombre
+58. Calculer l'année de naissance à partir d'un âge donné
+59. Calculer la somme des nombres entre deux nombres
+60. Trier une liste d'employés
+60.1. Trier une liste d'employés Solution avancée
+61. Créer une fonction pour remonter dans une structure de dossiers
+62. Transformer un chemin relatif en absolu
+63.  Écrire dans un fichier
