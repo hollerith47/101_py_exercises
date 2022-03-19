@@ -64,4 +64,21 @@
 60.1. Trier une liste d'employés Solution avancée
 61. Créer une fonction pour remonter dans une structure de dossiers
 62. Transformer un chemin relatif en absolu
-63.  Écrire dans un fichier
+63. Écrire dans un fichier3
+64. Fixer erreur de variable dans un fichier
+65. Trouvez tous les diviseurs d'un nombre
+66. Trouver les nombres divisibles par 7 mais qui ne sont pas des multiples de 3
+67. Calculer la factorielle d'un nombre
+68. Trouver un fichier à l'intérieur d'un dossier
+69. Créer un programme pour surveiller un dossier
+70. Vérifier le nombre de fichiers et dossiers dans un dossier avec temps execution script
+71. Générer un octet aléatoire
+72. Calculer le nombre de jours entre deux dates
+73. Créer un générateur de mot de passe
+74. Vérifier si un mot de passe est valide
+75. Compter le nombre d'occurrence d'un mot dans un texte
+76. Convertir une chaîne de caractère en camelCase
+77. Inverser l'ordre des mots dans une phrase
+78. Vérifier si une phrase est un palindrome
+79. Vérifier si une phrase est un pangramme
+80. Vérificateur de code Python
