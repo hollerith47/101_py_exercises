@@ -45,7 +45,6 @@
  44. Récupérer l'indice de l'itération dans une boucle
  45. Récupérer seulement les éléments pairs d'une liste
  46. Récupérer seulement les éléments pairs d'une liste avec une compréhension de liste
-
 -----------------Intermediate-------------------------
 47. Additionner les chiffres d'un nombre
 48. Remplacer un élément dans une liste (comprehension de liste)
