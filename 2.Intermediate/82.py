@@ -5,6 +5,13 @@ import string
 
 alphabet = string.ascii_lowercase
 dictionnaire = dict(zip(alphabet, [0] * len(alphabet)))
+# marche a suivre au depart on a deux liste
+list1 = alphabet
+list2 = [0] * len(alphabet)
+list3 = zip(list1, list2)  # on le converti en liste contenu des couples de tuple
+print(list1)
+print(list2)
+print(list(list3))
 
 lorem = """Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
 magna aliqua.
@@ -17,7 +24,7 @@ for letter in lorem.lower():
     if dictionnaire.get(letter) is not None:
         dictionnaire[letter] += 1  # print(dictionnaire)
 
-print(dictionnaire)
+# print(dictionnaire)
 
 """
     alphabet = string.ascii_lowercase

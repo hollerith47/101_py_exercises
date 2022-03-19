@@ -82,3 +82,25 @@
 78. Vérifier si une phrase est un palindrome
 79. Vérifier si une phrase est un pangramme
 80. Vérificateur de code Python
+81. Compter le nombre de phrases dans un texte
+82. Compter le nombre d'occurrence de chaque lettre de chaque lettre de l'alphabet
+------------------------Advanced-------------------------
+83. Recréer la méthode isdigit
+84. Recréer la méthode join
+85. Créer un dossier pour chaque lettre de l'alphabet
+86. Chercher un mot dans des fichiers
+87. Réimplémenter la méthode __add__
+88. Faire un script de tri à bulles
+89. Récupérer un élément dans une liste sans causer d'erreur
+90. Recréer la méthode replace
+91. Créer une classe personnalisée pour une chaîne de caractère
+92. Créer une fonction pour récupérer la valeur d'un dictionnaire
+93. Créer une classe personnalisée pour une liste
+94. Recréer la méthode split
+95. Créer une classe pour gérer des voitures
+96. Modifier la représentation d'une classe
+97. Créer des classes de base avec les classmethod
+98. Ajouter une propriété à la classe Voiture
+99. Erreur d'héritage entre deux classes
+100. Créer une classe qui hérite d'une autre
+101. Créer une classe pour manipuler des chemins
