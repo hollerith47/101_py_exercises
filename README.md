@@ -1,4 +1,4 @@
-# 101_py_exercices
+# 101_py_exercises
 Good to practice python
 
 hello every body I'm Herman, If you are passionate like me in programming
