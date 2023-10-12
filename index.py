@@ -5,6 +5,7 @@ db = TinyDB("Table_of_content.json", indent=4, encoding='utf-8')
 with open("Table_of_content.txt", "r") as f:
     table = f.readlines()
 
+"""
 table_de_matiere = {}
 i = 1
 for ligne in table:
@@ -17,3 +18,4 @@ for ligne in table:
 # print(table_de_matiere)
 db.insert(table_de_matiere)
 print(len(db))
+"""

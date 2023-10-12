@@ -1,4 +1,4 @@
-Question_1= """Question 1: Quelle est la capitale de la france?
+Question_1 = """Question 1: Quelle est la capitale de la france?
     a. Paris
     b. Lyon
     c. Bordeaux
